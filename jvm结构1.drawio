@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T06:30:02.812Z" agent="5.0 (Windows)" etag="_FTzo3VX1rrm_Y2cjAgR" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-04T10:39:59.218Z" agent="5.0 (Windows)" etag="03hY8hA7vvi8_RwzycWB" version="13.7.7" type="github">
   <diagram id="jac1WU7Z-4rhtNTyl5WQ" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,23 +7,47 @@
         <mxCell id="vPQNa0I2B0cAEcI1MXMM-2" value="jvn虚拟机" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="820" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-4" value="&lt;div align=&quot;center&quot;&gt;运行时数据区（内存模型）&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-4" value="&lt;div align=&quot;center&quot;&gt;运行时数据区（内存模型）&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;labelBackgroundColor=none;spacingTop=0;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="120" y="170" width="460" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-5" value="堆" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-5" value="堆" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;horizontal=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-6" value="栈（线程）" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-6" value="栈（线程）" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-7" value="本地方法栈" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-7" value="本地方法栈" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-8" value="方法区" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-8" value="方法区" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-9" value="程序计数器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;" vertex="1" parent="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-9" value="程序计数器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="280" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="vPQNa0I2B0cAEcI1MXMM-10" target="vPQNa0I2B0cAEcI1MXMM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-10" value="类装载子系统" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelBackgroundColor=none;align=center;labelPosition=center;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="630" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.011;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="vPQNa0I2B0cAEcI1MXMM-11" target="vPQNa0I2B0cAEcI1MXMM-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-11" value="字节码执行引擎" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;labelBackgroundColor=none;align=center;labelPosition=center;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="630" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-12" value="" style="endArrow=classic;html=1;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.542;entryY=0.083;entryDx=0;entryDy=0;entryPerimeter=0;fontColor=#000000;" edge="1" parent="1" source="vPQNa0I2B0cAEcI1MXMM-15" target="vPQNa0I2B0cAEcI1MXMM-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-15" value="java **.class" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="10" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
