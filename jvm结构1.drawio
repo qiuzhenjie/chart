@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T10:07:12.203Z" agent="5.0 (Windows)" etag="hDkxpRaXbOV0OZtQ9FYB" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:11:14.459Z" agent="5.0 (Windows)" etag="5xXutmwWbi2TGPy2KgsW" version="13.7.7" type="github">
   <diagram id="jac1WU7Z-4rhtNTyl5WQ" name="第 1 页">
     <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="vPQNa0I2B0cAEcI1MXMM-7" value="本地方法栈" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vPQNa0I2B0cAEcI1MXMM-8" value="方法区" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
+        <mxCell id="vPQNa0I2B0cAEcI1MXMM-8" value="&lt;div&gt;方法区&lt;/div&gt;&lt;div&gt;（元空间）&lt;br&gt;&lt;/div&gt;" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
           <mxGeometry x="140" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vPQNa0I2B0cAEcI1MXMM-9" value="程序计数器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;align=center;labelPosition=center;fillColor=#d0cee2;strokeColor=#56517e;" parent="1" vertex="1">
